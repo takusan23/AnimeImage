@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnimeImage</string>
+    <string name="uri_error">Video fetch failed</string>
+    <string name="ffmpeg_error">Conversion failed</string>
+    <string name="ffmpeg_successful">Conversion was successful.</string>
+    <string name="load_video">Video selection</string>
+    <string name="to_gif">Convert to GIF</string>
+    <string name="license">license</string>
+    <string name="description">This app converts video (mp4) to GIF image.</string>
+</resources>

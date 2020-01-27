@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">あにめイメージ</string>
+    <string name="ffmpeg_error">変換が失敗しました</string>
+    <string name="uri_error">動画の取得が出来ませんでした。</string>
+    <string name="ffmpeg_successful">変換が成功しました。</string>
+    <string name="to_gif">GIFに変換</string>
+    <string name="load_video">動画選択</string>
+    <string name="license">ライセンス</string>
+    <string name="description">このアプリでは動画（mp4）をGIF画像に変換するアプリです。</string>
+</resources>
